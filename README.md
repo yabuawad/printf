@@ -1,6 +1,6 @@
 ## printf ≽^-⩊-^≼
-I built this project to understand what really happens behind a simple `printf` call.
-Instead of relying on the standard library, this is my own implementation that handles formatted output from scratch — parsing the format string, reading variable arguments, and printing everything manually.
+I built this project to understand what really happens behind a simple `printf` call ^~^
+Instead of relying on the standard library, this is my own implementation that handles formatted output from scratch -parsing the format string-, reading variable arguments, and printing everything manually.
 # This project helped me get comfortable with:
 -variadic functions (va_list)
 -parsing strings character by character
