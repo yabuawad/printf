@@ -3,10 +3,10 @@ I built this project to understand what really happens behind a simple `printf` 
 Instead of relying on the standard library, this is my own implementation that handles formatted output from scratch -parsing the format string-, reading variable arguments, and printing everything manually.
 
 ## This project helped me get comfortable with:
--variadic functions (va_list)
--parsing strings character by character
--handling different data types in a unified way
--writing cleaner and more modular C code
+-variadic functions (va_list)  
+-parsing strings character by character  
+-handling different data types in a unified way  
+-writing cleaner and more modular C code  
 
 ## What It Supports
 `%c` → characters.  
